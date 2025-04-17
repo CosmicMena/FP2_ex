@@ -2,7 +2,7 @@
 Este repositório é destinado à resolução de exercícios de programação de Java para a cadeira de FP2, onde os Push's serão analisados por todos e todos os códigos devem ter a lógica comentada no main para assegurar as boas práticas de programação ensinadas pelo professor. Todos os ficheiros devem seguir as orientações do professor. 
 
 **Regras**
-1 - Todos os exercícios devem estar dentro de uma pasta FP2/Praticas/
+1 - Todos os exercícios devem estar dentro de uma pasta FP2/Praticas/ \n
 2 - Ao codar deve se colocar no início da função Main de forma comentada o pseudo-código do projeto
 3 - Cada Ficheiro deve ter o nome ExY_XY.java exemplo: Ex4_35.java
 4 - Todos Temos o direito de Visualizar e alterar ficheiros desde que:
